@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>codoger</title>
   
-  <subtitle>奥利给</subtitle>
+  <subtitle>let it go</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fantasticboy19.github.io.com/"/>
-  <updated>2020-02-16T09:03:54.186Z</updated>
+  <updated>2020-02-16T12:55:48.203Z</updated>
   <id>http://fantasticboy19.github.io.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的hexo的博客文章</title>
+    <link href="http://fantasticboy19.github.io.com/2020/02/16/%E6%88%91%E7%9A%84hexo%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>http://fantasticboy19.github.io.com/2020/02/16/%E6%88%91%E7%9A%84hexo%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <published>2020-02-16T12:55:48.000Z</published>
+    <updated>2020-02-16T12:55:48.203Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>files</title>
+    <link href="http://fantasticboy19.github.io.com/2020/02/16/files/"/>
+    <id>http://fantasticboy19.github.io.com/2020/02/16/files/</id>
+    <published>2020-02-16T11:41:10.000Z</published>
+    <updated>2020-02-16T11:41:10.689Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my_firstsite</title>
+    <link href="http://fantasticboy19.github.io.com/2020/02/16/my-firstsite/"/>
+    <id>http://fantasticboy19.github.io.com/2020/02/16/my-firstsite/</id>
+    <published>2020-02-16T09:25:27.000Z</published>
+    <updated>2020-02-16T09:25:27.276Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
